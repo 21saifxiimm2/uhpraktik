@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Saif uh dmi</title>
+    <link rel="stylesheet" href="stylesaifuhdmi.css">
+  </head>
+  
+  <body>
+  <div class="kop">
+  <marquee direction="right">Pembuatan WEB untuk Penilaian Ulangan Harian DMI</marquee>
+  </div>
+  <div class="header">
+      <div class="header-logo1">
+	  	 <img src="foto.jpg" style="width:80px ; height:100px">	
+	  </div>
+      <div class="header-list">
+	     <ul>
+          <li>Produk</li>
+          <li>Terlaris</li>
+          <li>Termurah</li>
+		  <li>customer</li>
+        </ul>
+      </div>
+	  <div class="header-logo2">
+	  OK
+	  </div>
+    </div>
+
+ <div class="main">
+	<div class="shop">
+        <h1>DMI shop<span>Hot</span></h1>
+		<img src="kop1.png">
+    </div>	        
+				
+    <div class="kategori">
+        <h2>Kategori</h2>
+        <div class="kategori-item">
+          <img src="kop2.png">          
+		  <p>Elektronik</p>
+        </div>
+        
+        <div class="kategori-item">
+          <img src="kop3.png">
+          <p>Pulsa & Tagihan</p>
+        </div>
+        
+        <div class="kategori-item">
+          <img src="kop4.png">
+          <p>Fashion</p>
+        </div>
+        
+        <div class="kategori-item">
+          <img src="kop5.png">          
+		  <p>Supermarket</p>
+        </div>
+		
+		<div class="kategori-item">
+		<img src="kop6.png">
+		<p>Bayar di Tempat<p>
+		</div>
+		
+		<div class="kategori-item">
+		<img src="kop7.png">
+		<p>Gratis Ongkir<p>
+		</div>
+		
+		<div class="kategori-item">
+		<img src="kop8.png">
+		<p>Semua Diskon<p>
+		</div>
+	</div>
+	   
+	<div class="hotsale">  
+		<h3>Hotsale</h3>
+	
+		<div class="hotsale-item">
+		<img src="hotsale1.png">
+		<p>Rp.5.000.000</p>
+		</div>
+	
+		<div class="hotsale-item">
+		<img src="hotsale2.png">
+		<p>Rp.750.000</p>
+		</div>
+		
+		<div class="hotsale-item">
+		<img src="hotsale3.png">
+		<p>Rp.300.000</p>
+		</div>	
+			
+		<div class="hotsale-item">
+		<img src="hotsale4.png">
+		<p>Rp.300.000</p>
+		</div>
+		
+		<div class="hotsale-item">
+		<img src="hotsale5.png">
+		<p>Rp.7.500</p>
+		</div>
+		
+		<div class="hotsale-item">
+		<img src="hotsale6.png">
+		<p>Rp.250.000</p>
+		</div>
+		
+		<div class="hotsale-item">
+		<img src="hotsale7.png">
+		<p>Rp.50.000</p>
+		</div>
+			
+		<div class="hotsale-item">
+		<img src="hotsale8.png">
+		<p>Rp.150.000</p>
+		</div>
+	</div>
+	<div class="info">
+		<h4>produk lengkap banyak promo</h4>
+		<p>Setiap Saat Semua orang menyukai belanja online demi kenyamanan dan bonus harga murah. Sambil menikmati belanja di DMI Shop Mall, brand-brand terkenal seperti Oppo, Xiaomi, Samsung, Aukey, Abbott, Nivea, Unilever, Wardah, Elzatta Hijab, dan masih banyak lagi. Jangan sampai ketinggalan dengan promo-promo yang berlangsung setiap harinya. Shopee menawarkan berbagai produk dengan harga promosi khusus yang dijual oleh seller terbaik. Selain itu, Shopee juga akan membantu kamu mendapatkan barang untuk orang tersayang dengan melihat fitur “produk populer” sebagai referensi terbaikmu. Kemudian ada Flash Sale dengan promo dan diskon produk update tiap hari. Shopee meningkatkan pengalaman belanja online dengan harga murah sepanjang tahun!</p>
+	    <h4>Pusat Produk Gratis Ongkir di Indonesia</h4>
+		<p>Nikmati Gratis Ongkir hanya di DMI Shop! Belanja sesuka hatimu tanpa harus khawatir akan biaya pengiriman! Sebagai penjual, kamu akan mendapatkan subsidi ongkir atas seluruh penjualanmu - Belanja online gratis ongkir dan Jualan di DMI Shop memang asik!</p>
+	</div>
+	
+	
+	
+	    <div class="footer">
+      <div class="footer-logo">DMI</div>
+	
+      <div class="footer-list">
+        <ul>
+          <li>DMI Shop</li>
+          <li>Belanja Berkah</li>
+        </ul>
+      </div>
+	    <div class="footer-copyright">copyright@rifqisaif2840</div>
+    </div>
+  </body>
+</html> 
