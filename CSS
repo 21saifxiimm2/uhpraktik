@@ -1,0 +1,183 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+}
+
+.kop {
+  background-color:blue;
+color :#ffffff;		
+font-size: 20px;
+}  
+
+.header {
+  background-color: #87CEFA;
+  color: #fff;
+  height: 105px;
+}
+
+.header-logo1 img{
+float:left;
+margin-left:20px;
+margin-right:10px;
+border: 3px solid blue;
+border-radius:10px;
+}
+
+.header-logo2{
+  float : right;
+  font-size: 36px;
+  padding: 20px 40px;
+  border:3px solid blue;
+  border-radius:10px;
+  margin-right:20px;
+  margin-top:10px;
+  background-color:red;
+  color: yellow;
+  }
+
+.header-list li { 
+  float: left;
+  padding: 30px 20px;
+  margin-left: 10px;
+  margin-right:10px;
+  margin-top:10px;
+  margin-bottom:10px;
+  border:3px solid blue;
+  border-radius:10px;
+  background-color:blue;
+} 
+
+.header-list li:hover {
+color :black;
+background-color: red;	
+}
+
+.main {
+ background-color:#D6EAF8;
+ padding: 100px 80px;
+}
+
+.shop {
+	background-color:#5CB3FF;
+}
+
+.shop img{
+padding-left:20px;	
+}
+.shop h1 {
+  font-size: 24px;
+  }
+
+.shop span {
+  color: #ff4a4a;
+}
+
+.kategori {
+  height:200px;
+  margin-top: 50px;
+  background-color:#5CB3FF;
+}
+
+.kategori h2 {
+	font-size:24px;
+	text-align: left;
+}
+
+.kategori-item {
+	padding-left:20px;
+  float: left;
+  margin-right: 40px;	
+  text-align:center;
+  }
+  
+.kategori-item p {
+font-size: 15px;
+text-align: center;
+margin-bottom:10px;
+}
+
+.kategori img{
+	border:3px solid grey;
+	border-radius: 5px;
+	height:100px;
+	width:100px;
+}
+
+.hotsale {
+margin-top:50px;
+background-color:#5CB3FF;	
+height: 570px;
+font-size: 24px;	
+}
+
+.hotsale h3 {
+font-size:24px;
+text-align: left;	
+}
+
+.hotsale-item {
+padding-left:20px;
+float:left;
+margin-right:40px;
+}
+
+.hotsale-item p {
+background-color: blue;
+border:3px solid grey;
+border-radius: 10px;
+font-size: 15px;
+color:red;
+text-align:center;
+margin-bottom:10px;	
+}
+
+.hotsale-item p:hover {
+color : white;
+background-color: black	
+}
+
+.hotsale-item img {
+border:3px solid grey;
+border-radius: 10px;
+height: 200px;
+width: 200px;
+}
+
+.info {
+margin-top:50px;
+background-color:#5CB3FF;	
+}
+.info h4 {
+color: red;
+font-size:24px;	
+}
+
+.footer {
+  margin-top:50px;
+  background-color: #2f5167;
+  color: #fff;
+  height: 100px;
+  padding: 15px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 100px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 15px;
+} 
+
+.footer-copyright{ 
+text-align: center;
+color: yellow;
+padding-top: 80px;
+}
